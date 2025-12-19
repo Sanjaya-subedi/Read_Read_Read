@@ -1,3 +1,5 @@
+# THE CHIP – Concepts Learned / Revised
+
 Book: THE CHIP - How Two Americans Invented the Microchip and Launched a Revolution
 Author: T.R Reid
 
