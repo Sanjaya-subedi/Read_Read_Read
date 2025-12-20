@@ -3,6 +3,10 @@
 **Book:** THE CHIP - How Two Americans Invented the Microchip and Launched a Revolution  
 **Author:** T.R Reid
 
+
+This book has a very strong storytelling and narrative style that kept me fully engaged from start to finish.
+
+
 ## WHY I READ THIS
 Having a degree in Computer Science and begining working as a full time software engineer, it took me a while to build up my interests to understand about the interaction of hardware and software. Memory is the heart of digital revolution and I wanted to know how it all started back in the times and what made possible for what is today. Everything that is happening today lies on top of physics, and this book I think was a great start to build and strengthen my intuition.
 
