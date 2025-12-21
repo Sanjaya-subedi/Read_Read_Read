@@ -3,6 +3,9 @@
 **Book:** THE CHIP - How Two Americans Invented the Microchip and Launched a Revolution  
 **Author:** T.R Reid
 
+This book has a very strong storytelling and narrative style that kept me fully engaged from start to finish.
+
+
 ## WHAT CONCEPTS DID I LEARN / REVISE
 
 ### Flow of Electrons and Current Control
