@@ -3,8 +3,7 @@
 **Book:** Code - The Hidden Language of Computer Hardware and Software 
 **Author:** Charles Petzold
 
-Information ≠ electricity
-Information = interpretation of signals
+Information ≠ electricity, Information = interpretation of signals
 
 ## WHAT CONCEPTS DID I LEARN / REVISE
 
