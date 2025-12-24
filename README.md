@@ -21,5 +21,7 @@ This repository contains my summarized notes and reflections from the books I re
 
 ### Non Technical Books
 
-
+## Reflections
+- Modern Software Engineering
+ - Reflections/Engineering_Nowadays.md
 
