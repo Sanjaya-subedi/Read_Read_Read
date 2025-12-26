@@ -19,3 +19,13 @@ Process is an instance of execution of program. IT has many elements that helps 
 
 Process creation
 In a batch env, a process is cerated in response to the submission of a job or in an interactive env, a process is created when a new user attempts to log on. Also, there is chance of one process to cause the creation of another. When the OS creates a process at the explicit request of another process, the action is called process spawning. When one process spawns another, the former is called parent process and the spawned one is child process. 
+
+There are five states of processes - running, ready, blocked/waiting, new and exit.
+
+The fundamental transitional states for a process:  null u new, new u ready, ready u running, running u exit, running u ready, running u blocked, blocked u ready, ready u exit and blocked u exit.
+
+When processes are running in memory, they are normally in main memory. But there is concept of swapping which involves moving part or all of a process from main memory to disk. The paging happens depending on the context and OS can move those pages in swap (disk) when they are in kind of a suspend queue or not in ready state. Swapping actually is an I/O operation so it could be slower but disk I/O is better and generally the fastest I/O than other things like tape, printer, so it is not that bad. To handle the swapping condition better, there are four states. Ready - it is in main memory and available for execution. Blocked - it is in main memory and awaiting an event. Blocked/Suspend - the process is in secondary memory and awaiting an event. Ready/suspend - The process is in secondary memory but is available for execution as soon as it is loaded into main memory.
+
+The use of virtual memory would appear to eliminate the need for explicit swapping, because any desired address in any desired process can be moved in or out of main memory by the memory management.
+
+This leads to the new transition states: blocked u blocked/suspend, 
